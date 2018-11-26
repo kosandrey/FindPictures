@@ -1,0 +1,9 @@
+D:\Andrey\prog\C#\FindPic\bin\Debug\FindPic.exe.config
+D:\Andrey\prog\C#\FindPic\bin\Debug\FindPic.exe
+D:\Andrey\prog\C#\FindPic\bin\Debug\FindPic.pdb
+D:\Andrey\prog\C#\FindPic\obj\Debug\FindPic.csprojResolveAssemblyReference.cache
+D:\Andrey\prog\C#\FindPic\obj\Debug\FindPic.Form1.resources
+D:\Andrey\prog\C#\FindPic\obj\Debug\FindPic.Properties.Resources.resources
+D:\Andrey\prog\C#\FindPic\obj\Debug\FindPic.csproj.GenerateResource.Cache
+D:\Andrey\prog\C#\FindPic\obj\Debug\FindPic.exe
+D:\Andrey\prog\C#\FindPic\obj\Debug\FindPic.pdb
